@@ -1,0 +1,39 @@
+{
+  "content": "338 TOURISM COMPANY LIMITED",
+  "titleCompanyDetail": "MANAGEMENT COMPANY",
+  "copyright": "Copyright belongs to",
+  "companyDetail": {
+    "MSDN": "M.S.D.N",
+    "responsible": "In charge of",
+    "address": "Address",
+    "phone": "Phone",
+    "website": "Website"
+  },
+  "titleOverviewDetail": "INFORMATION NEED TO KNOW",
+  "overviewDetail": [
+    {
+      "title": "About us",
+      "href": "/tin-tuc/bai-viet?slug=ve-chung-toi"
+    },
+    {
+      "title": "Privacy Policy (Privacy)",
+      "href": "/tin-tuc/bai-viet?slug=chinh-sach-bao-mat"
+    },
+    {
+      "title": "Terms and conditions of use",
+      "href": "/tin-tuc/bai-viet?slug=dieu-khoan-va-dieu-kien-su-dung"
+    },
+    {
+      "title": "Dispute and complaint policies and procedures",
+      "href": "/tin-tuc/bai-viet?slug=chinh-sach-va-quy-dinh-tranh-chap-khieu-nai"
+    },
+    {
+      "title": "User information security policy",
+      "href": "/tin-tuc/bai-viet?slug=bao-mat-thong-tin-nguoi-dung"
+    },
+    {
+      "title": "Payment information security policy",
+      "href": "/tin-tuc/bai-viet?slug=bao-mat-thong-tin-thanh-toan"
+    }
+  ]
+}

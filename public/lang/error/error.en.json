@@ -1,0 +1,9 @@
+{
+  "errorRequired": "Please do not leave it blank",
+  "errorEmail": "Invalid email",
+  "phoneInvalid": "Invalid phone number",
+  "min8Character": "Password minimum 8 characters.",
+  "passwordInvalid": "Password must contain lowercase letters, uppercase letters, numbers and special characters",
+  "passwordNotMatch": "Passwords do not match",
+  "bornYearInvalid": "Invalid year of birth"
+}

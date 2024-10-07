@@ -1,0 +1,230 @@
+{
+  "bookingTicket": "Book bus tickets",
+  "aboutUs": "About us",
+  "change": "Change",
+  "timeStart": "Now go",
+  "carType": "Vehicle type",
+  "rowSeats": "Row",
+  "floor": "Floor",
+  "hours": "hour",
+  "luxuryCar": "Luxury Car",
+  "bed": "Bed",
+  "empty": "empty space",
+  "empty2": "(drum)",
+  "limousineCar": "Limousine",
+  "traditionalCar": "Traditional bed",
+  "price": "Price",
+  "selectRoute": "Select trip",
+  "cancel": "Cancel",
+  "apply": "Apply",
+  "filter": "Search filters",
+  "clearFilter": "Unfilter",
+  "emptyPick": "Still empty",
+  "picking": "Selecting",
+  "picked": "Booked",
+  "downStairs": "Lower floor (A)",
+  "upStairs": "Upper floor (B)",
+  "continue": "Continue",
+  "pickPlace": "Pick up point",
+  "dropPlace": "Pay point",
+  "pickingDecription1": "Please be present at the Bus Station/Office",
+  "pickingDecription2": "before",
+  "pickingDecription3": "to get transferred or check information before getting on the bus.",
+  "goTicket": "Afternoon ticket",
+  "total": "Total amount",
+  "pickLocation": "Pick up point",
+  "dropLocation": "Pay point",
+  "placeholderSearchLocation": "Enter the name of the bus station and office",
+  "seeLocation": "View location",
+  "expiredBookingDuration": "Remaining booking time",
+  "suggestLogin": "Log in to automatically fill in information and accumulate points when booking tickets",
+  "fullName": "Full name",
+  "phone": "Phone number",
+  "email": "E-mail",
+  "privacyContent": "I agree to xequangbinh's scheduling terms and privacy policy",
+  "notice": "Note",
+  "noticeDescription": "Lorem ipsum dolor sit amet consectetur. ",
+  "informationGo": "Schedule information",
+  "informationBack": "Return trip information",
+  "routes": "Vehicle route",
+  "timeLeave": "Time",
+  "amountSeats": "Number",
+  "seats": "Number of seats",
+  "totalPriceGo": "Total money for each trip",
+  "detailPrice": "Schedule cost",
+  "priceTicket": "Return ticket price",
+  "priceTicket2": "Return ticket price",
+  "promotion": "Endow",
+  "totalPrice": "Total amount",
+  "payment": "Pay",
+  "exchangePoints": "Exchange points for Vouchers",
+  "exchangePoints2": "Exchange points for first leg Voucher",
+  "exchangePoints3": "Exchange points for return vouchers",
+  "schedule": "Schedule",
+  "scheduleReturn": "Round trip schedule",
+  "seeAll": "See all",
+  "yourPoints": "Your score",
+  "voucher": "Vouchers",
+  "exchangeNow": "Change now",
+  "score": "point",
+  "voucherDetail": "Voucher details",
+  "HSD": "HSD",
+  "days": "day",
+  "departure": "Trip",
+  "return": "Return trip",
+  "conditionalApply": "Conditions apply",
+  "contentApply": "Promotional content",
+  "exchange": "Change",
+  "close": "Close",
+  "exchangeSucess": "Redeem offer successfully",
+  "filterText": "Filter",
+  "still": "Still",
+  "resultNotFound": "No matching results were found.",
+  "pleaseChangeTrip": "Please change your route or departure date to search again.",
+  "pleaseNotFound": "Please change your phone number or order code to search again.",
+  "changeTrip": "Schedule change",
+  "noteGoWithChild": "ACCOMPANYING CHILDREN POLICY:",
+  "applyforLimousine": "Applicable to Limousine models:",
+  "back": "Come back",
+  "searchResult": "Schedule results",
+  "childNoteList": [
+    {
+      "bold": "",
+      "content": "50% for children under 30kg, height under 130cm shared with adults."
+    },
+    {
+      "bold": "",
+      "content": "Children under 20kg and 112cm in height are free of charge with adults."
+    },
+    {
+      "bold": "",
+      "content": "Weight 30kg, Height from 130cm or more is 100% separate."
+    }
+  ],
+  "selectedSeat": "Seat selected",
+  "paymentInformation": "Payment information",
+  "fullNameBookingPerson": "Full name of the person making the reservation",
+  "informationCustomer": "Passenger information",
+  "informationCustomerReverse": "Passenger information - Trip",
+  "informationCustomerReverse2": "Passenger information - Return trip",
+  "optionnal": "(optional)",
+  "confirm": "Confirm",
+  "cancelApply": "Cancel the operation",
+  "confirmCancel": "Confirm cancellation",
+  "contentCancel": "Are you sure you want to cancel your redemption for this voucher?",
+  "childrenSitSameChair": "Children sit in the same chair",
+  "childrenSitSameChair2": "CHILDREN SIT IN THE SAME CHAIR",
+  "noteWeightForChildren": "For children under 25kg or height under 130cm",
+  "informationChildren": "Children's information",
+  "informationChildrenReverse": "Children's information - Trips",
+  "informationChildrenReverse2": "Children's information - Return trip",
+  "customerSitOn": "Passengers sit in seats",
+  "useCustomerInformation": "Use booking information",
+  "saveInformation": "Save information",
+  "bornYear": "Birthday",
+  "phoneTitle": "Phone number",
+  "informationCustomerChildren": "Information about children sitting together",
+  "noteHeighWeightForChildren": "Note: Children sharing the same seat is only for children under 25kg or under 130cm in height",
+  "childrenBelowWeightAndHeight": "Children under 20kg - under 112 cm",
+  "childrenBelowWeightAndHeight2": "Children under 25kg - under 115cm",
+  "freeForChildrenWithAdult": "Free for children sitting with an adult.",
+  "extraFeesChildrenSitWithAdult": "50% surcharge for children sitting with adults.",
+  "free": "Free of charge",
+  "extraFee": "Surcharge",
+  "pleaseArrivedAt": "Please be present here",
+  "before": "before",
+  "toTransferBeforeGettingOnBus": "to get transferred or check information before getting on the bus.",
+  "tempCalculate": "Temporarily calculated",
+  "seatLocation": "Position",
+  "totalCalculate": "Total calculation",
+  "choosePickingLocation": "Select pick up point",
+  "extraFeeChildren": "50% surcharge for children",
+  "seatPrice": "Expense",
+  "voucherList": "List of Vouchers",
+  "youExchangeSuccess": "You have successfully changed",
+  "get": "take",
+  "confirmPayment": "Confirm payment",
+  "quickPaymentByQRCode": "Quick payment via QR code",
+  "noteBanksNotSupportQR": "Some banks do not yet support QR code scanning",
+  "pleaseCheckInformationBeforeTransfer": "Please compare information before transferring",
+  "now": "right",
+  "allVoucher": "All Vouchers",
+  "indentify": "CCCD",
+  "voucherApplyFrom": "Voucher applies to trips from",
+  "voucherApplyTo": "to the end ",
+  "earlyMorning": "Early morning",
+  "morning": "Morning",
+  "afternoon": "Afternoon",
+  "evening": "Evening",
+  "above": "Above",
+  "below": "Below",
+  "chooseSeat": "Choose a seat",
+  "tripInfo": "Schedule information",
+  "useBookingInfoForPassenger": "Use scheduler information for passenger seats ",
+  "enterLocationFrom": "Enter location from",
+  "enterLocationTo": "Enter location to",
+  "applyforTradition": "Applicable to Traditional, Luxury:",
+  "childNoteTraditionList": [
+    {
+      "content": "Free for children under 100cm in height and under 14kg lying with adults"
+    },
+    {
+      "Content": "Babies over 15kg, height of 100cm or more are 100% separate"
+    }
+  ],
+  "regulation": "REGULATION:",
+  "contentLuggage": "Please stamp your luggage before handing it over to the service staff.",
+  "regulationContentList": [
+    {
+      "content": "Do not accept goods and luggage on the list of prohibited and illegal goods."
+    },
+    {
+      "content": "Fragile and perishable baggage, fresh items need to be packed in accordance with specifications and regulations and must be responsible for themselves when there are risks during transportation."
+    },
+    {
+      "content": "Do not accept high-value checked baggage: money, jewelry, precious metals, confidentiality contracts, administrative documents or other items of high value. Please declare for high-value baggage: Free baggage of 25kg and size for 01 piece not exceeding 100cm. Cases that do not meet the above weight and size will be charged an additional fee."
+    },
+    {
+      "content": "We are not responsible for damages caused by defects in nature, quality or omission of baggage. Likewise, we will not be liable for reasonable wear and tear of baggage caused by normal movement and impact during transportation."
+    },
+    {
+      "content": "We compensate passengers for damage to their baggage based on the general principle of compensation according to the actual damage but not in excess of the limit of our liability. Passengers are responsible for proving actual damage to their baggage. General regulations on compensation for lost baggage: Compensation 200,000-500,000vnd. We receive information right at the time of getting off the bus (call or text), but we do not receive reports after leaving the car."
+    }
+  ],
+  "policyOnChange": "POLICY TO CHANGE, CANCEL, POSTPONE SCHEDULE:",
+  "policyOnChangeList": [
+    {
+      "content": "A fee of 17% / voucher will apply when notified 15:00 in advance of the departure date."
+    },
+    {
+      "content": "Apply a 50% fee/voucher after 15:00 and 05 hours before the departure time of the bus."
+    },
+    {
+      "content": "Cancellation, postponement, or change are not applicable 05 hours before the departure time."
+    },
+    {
+      "content": "For groups of 03 people or more, cancel, postpone or reschedule before 24:00 compared to the departure time of the departure date. After 10:00 a.m., no cancellation, postponement, or rescheduling will be accepted."
+    },
+    {
+      "content": "Holidays and Tet do not apply the above cancellation and postponement policies."
+    }
+  ],
+  "policyOnOrther": "OTHER POLICIES:",
+  "policyOnOrtherList": [
+    {
+      "content": "Please arrive 15 minutes before the departure time to complete the procedure."
+    },
+    {
+      "content": "Each passenger is allowed a maximum of 07kg of carry-on baggage and 20kg of checked baggage."
+    },
+    {
+      "content": "The voucher will be invalid if: the full name on the voucher and the person who travels have different names, the phone number does not match."
+    },
+    {
+      "content": "In order to avoid affecting the people around us, the company refuses to serve passengers who cause disturbances, eat in the car, people who are drunk, and use drugs."
+    },
+    {
+      "content": "The voucher includes VAT (voucher has no payment value). After 24 hours, you do not take the invoice, ask for permission to issue retail invoices."
+    }
+  ]
+}

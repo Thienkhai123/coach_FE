@@ -1,0 +1,17 @@
+{
+  "tourTravel": "Tour",
+  "bookTourNow": "Book tour now!",
+  "bookingTour": "Book a tour",
+  "tourDetail": "Tour details",
+  "saveAndReceiveAdvice": "Save and get advice",
+  "tourInformation": "Tour information",
+  "amountPerson": "Number of people",
+  "bookingCar": "Book a car",
+  "amountRentalCars": "Number of rental cars",
+  "carWithDriver": "The car has a driver",
+  "informationContact": "Contact information",
+  "returnDate": "Return date",
+  "suggestLoginTour": "Log in to automatically fill in information and accumulate points after booking a tour",
+  "titleRegisterAdviceSuccess": "Your information has been received!",
+  "waitingForFeedbackAdvice": "Please wait by the phone, the bus company's consulting team will contact you soon"
+}

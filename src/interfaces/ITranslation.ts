@@ -1,0 +1,40 @@
+import { IAccountTranslate } from "./IAccountTranslate";
+import { IBookingTranslate } from "./IBookingTranslate";
+import { IContractVehicleTranslate } from "./IContractVehicleTranslate";
+import { ICreateOrderTranslate } from "./ICreateOrderTranslate";
+import { IErrorTranslate } from "./IErrorTranslate";
+import { IHeaderTranslate } from "./IHeaderTranslate";
+import { IHomeTranslate } from "./IHomeTranslate";
+import { IMyPointTranslate } from "./IMyPointTranslate";
+import { INewsTranslate } from "./INewsTranslate";
+import { IOrderTranslate } from "./IOrderTranslate";
+import { IPaymentTranslate } from "./IPaymentTranslate";
+import { IPlaceholderTranslate } from "./IPlaceholderTranslate";
+import { IRequestPaymentTranslate } from "./IRequestPaymentTranslate";
+import { ISearchingTranslate } from "./ISearchingTranslate";
+import { IServiceHistoryTranslate } from "./IServiceHistoryTranslate";
+import { ISignInTranslate } from "./ISignInTranslate";
+import { ITourTranslate } from "./ITourTranslate";
+import { ITransportTranslate } from "./ITransportTranslate";
+
+export interface ITranslation {
+	HEADER: IHeaderTranslate;
+	FOOTER: any;
+	SIGNIN: ISignInTranslate;
+	HOME: IHomeTranslate;
+	BOOKING: IBookingTranslate;
+	ERROR: IErrorTranslate;
+	PLACEHOLDER: IPlaceholderTranslate;
+	PAYMENT: IPaymentTranslate;
+	TRANSPORT: ITransportTranslate;
+	SEARCHING: ISearchingTranslate;
+	ORDER: IOrderTranslate;
+	REQUESTPAYMENT: IRequestPaymentTranslate;
+	ACCOUNT: IAccountTranslate;
+	HISTORY: IServiceHistoryTranslate;
+	POINT: IMyPointTranslate;
+	TOUR: ITourTranslate;
+	VEHICLE: IContractVehicleTranslate;
+	NEWS: INewsTranslate;
+	CREATEORDER: ICreateOrderTranslate;
+}

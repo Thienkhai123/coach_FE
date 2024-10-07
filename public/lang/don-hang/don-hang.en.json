@@ -1,0 +1,17 @@
+{
+  "order": "Order",
+  "informationShipping": "Shipping information",
+  "seeDetail": "See details",
+  "informationSendReceive": "Information sent and received",
+  "informationProduct": "Product information",
+  "createOrder": "Create application",
+  "status": "Status",
+  "shippingFees": "Shipping fee",
+  "shippingDetail": "Shipping details",
+  "expected": "Estimated time",
+  "transporting": "Shipping",
+  "detailTitle": "Detailed shipping information",
+  "statusUnpaid": "Unpaid",
+  "statusPaid": "Paid",
+  "collected": "Collected"
+}

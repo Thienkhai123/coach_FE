@@ -1,0 +1,47 @@
+{
+  "navbar": [
+    {
+      "title": "Home page",
+      "ref": "/"
+    },
+    {
+      "title": "Create orders",
+      "ref": "/gui-hang"
+    },
+    {
+      "title": "Look up application",
+      "ref": "/tra-cuu-don-hang"
+    },
+    {
+      "title": "Rent a car",
+      "ref": "/xe-hop-dong"
+    },
+    {
+      "title": "News",
+      "ref": "/tin-tuc"
+    }
+  ],
+  "accountSettings": [
+    {
+      "title": "Personal information",
+      "ref": "/thong-tin-ca-nhan"
+    },
+    {
+      "title": "Service history",
+      "ref": "/lich-su-dich-vu"
+    },
+    {
+      "title": "My score",
+      "ref": "/diem-thuong-cua-toi",
+      "extraComponent": true,
+      "key": "point"
+    },
+    {
+      "title": "Sign out",
+      "ref": "/dang-xuat"
+    }
+  ],
+  "point": "point",
+  "notification": "Notification",
+  "language": "Language"
+}

@@ -1,0 +1,22 @@
+{
+  "upstairs": "Lower floor (A)",
+  "downstairs": "Upper floor (B)",
+  "warningChildren": {
+    "attention": "Note for accompanying children:",
+    "contentApplyToBike": "Applicable to Limousine models:",
+    "contentList": [
+      {
+        "contentHot": "Free of charge",
+        "content": "For children under 20kg and height 112cm when sleeping with adults."
+      },
+      {
+        "contentHot": "Calculate 50%",
+        "content": "For children under 25kg and height 115cm when sleeping with adults. "
+      },
+      {
+        "contentHot": "Calculate 100%",
+        "content": "For children weighing from 30kg and height from 130cm or more when lying alone."
+      }
+    ]
+  }
+}

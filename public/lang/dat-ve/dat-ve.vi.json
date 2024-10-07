@@ -1,0 +1,233 @@
+{
+  "bookingTicket": "Đặt vé xe",
+  "aboutUs": "Về chúng tôi",
+  "change": "Thay đổi",
+  "timeStart": "Giờ đi",
+  "carType": "Loại xe",
+  "rowSeats": "Hàng ghế",
+  "floor": "Tầng",
+  "hours": "giờ",
+  "luxuryCar": "Xe Luxury",
+  "bed": "Giường nằm",
+  "empty": "chỗ trống",
+  "empty2": "(trống)",
+  "limousineCar": "Xe Limousine",
+  "traditionalCar": "Giường nằm truyền thống",
+  "price": "Giá",
+  "selectRoute": "Chọn chuyến",
+  "cancel": "Hủy",
+  "apply": "Áp dụng",
+  "filter": "Bộ lọc tìm kiếm",
+  "clearFilter": "Bỏ lọc",
+  "emptyPick": "Còn trống",
+  "picking": "Đang chọn",
+  "picked": "Đã đặt",
+  "downStairs": "Tầng dưới (A)",
+  "upStairs": "Tầng trên (B)",
+  "continue": "Tiếp tục",
+  "pickPlace": "Điểm đón",
+  "dropPlace": "Điểm trả",
+  "pickingDecription1": "Quý khách vui lòng có mặt tại Bến xe/Văn Phòng",
+  "pickingDecription2": "trước",
+  "pickingDecription3": "để được trung chuyển hoặc kiểm tra thông tin trước khi lên xe.",
+  "goTicket": "Vé chiều đi",
+  "total": "Tổng tiền",
+  "pickLocation": "Điểm đón",
+  "dropLocation": "Điểm trả",
+  "placeholderSearchLocation": "Nhập tên bến xe, văn phòng",
+  "seeLocation": "Xem vị trí",
+  "expiredBookingDuration": "Thời gian đặt vé còn lại",
+  "suggestLogin": "Đăng nhập để tự động điền thông tin và tích điểm khi đặt phiếu xe",
+  "fullName": "Họ và tên",
+  "phone": "Số điện thoại",
+  "email": "Email",
+  "privacyContent": "Tôi đồng ý với Điều khoản đặt lịch trình và Chính sách bảo mật của xequangbinh",
+  "notice": "Lưu ý",
+  "noticeDescription": "Lorem ipsum dolor sit amet consectetur. Mattis adipiscing consequat eleifend lacus sed ultrices. Sit netus sollicitudin amet arcu dis congue amet. Tristique ut nulla erat neque praesent in morbi risus curabitur. Auctor dictum nisl in in mauris augue.",
+  "informationGo": "Thông tin lịch trình",
+  "informationBack": "Thông tin chuyến về",
+  "routes": "Lộ Trình",
+  "timeLeave": "Thời gian",
+  "amountSeats": "Số lượng",
+  "seats": "Số ghế",
+  "totalPriceGo": "Tổng tiền lượt đi",
+  "detailPrice": "Chi phí lịch trình",
+  "priceTicket": "Giá vé lượt đi",
+  "priceTicket2": "Giá vé lượt về",
+  "promotion": "Ưu đãi",
+  "totalPrice": "Tổng tiền",
+  "payment": "Thanh toán",
+  "exchangePoints": "Đổi điểm lấy Voucher",
+  "exchangePoints2": "Đổi điểm lấy Voucher lượt đi",
+  "exchangePoints3": "Đổi điểm lấy Voucher lượt về",
+  "schedule": "Lịch trình",
+  "scheduleReturn": "Lịch trình khứ hồi",
+  "seeAll": "Xem tất cả",
+  "yourPoints": "Điểm của bạn",
+  "voucher": "Voucher",
+  "exchangeNow": "Đổi ngay",
+  "score": "điểm",
+  "voucherDetail": "Chi tiết voucher",
+  "HSD": "HSD",
+  "days": "ngày",
+  "departure": "Chuyến đi",
+  "return": "Chuyến về",
+  "conditionalApply": "Điều kiện áp dụng",
+  "contentApply": "Nội dung ưu đãi",
+  "exchange": "Đổi",
+  "close": "Đóng",
+  "exchangeSucess": "Đổi ưu đãi thành công",
+  "filterText": "Bộ lọc",
+  "still": "Còn",
+  "resultNotFound": "Không tìm thấy kết quả phù hợp.",
+  "pleaseChangeTrip": "Xin bạn vui lòng thay đổi tuyến đường hoặc ngày xuất phát để tìm kiếm lại.",
+  "pleaseNotFound": "Xin bạn vui lòng thay đổi số điện thoại hoặc mã đơn hàng để tìm kiếm lại.",
+  "changeTrip": "Thay đổi lịch trình",
+  "noteGoWithChild": "CHÍNH SÁCH TRẺ EM ĐI CÙNG:",
+  "applyforLimousine": "Áp dụng đối với dòng Xe Limousine:",
+  "back": "Quay lại",
+  "searchResult": "Kết quả lịch trình",
+  "childNoteList": [
+    {
+      "bold": "",
+      "content": "Tính 50% đối với trẻ dưới 30kg, chiều cao dưới 130cm nằm chung với người lớn."
+    },
+    {
+      "bold": "",
+      "content": "Trẻ dưới 20kg, chiều cao 112cm miễn phí nằm chung với người lớn."
+    },
+    {
+      "bold": "",
+      "content": "Nặng 30kg, Chiều cao từ 130cm trở lên nằm riêng tính 100%."
+    }
+  ],
+  "selectedSeat": "Đã chọn ghế",
+  "paymentInformation": "Thông tin thanh toán",
+  "fullNameBookingPerson": "Họ và tên người đặt lịch trình",
+  "informationCustomer": "Thông tin hành khách",
+  "informationCustomerReverse": "Thông tin hành khách - Chuyến đi",
+  "informationCustomerReverse2": "Thông tin hành khách - Chuyến về",
+  "optionnal": "(tuỳ chọn)",
+  "confirm": "Xác nhận",
+  "cancelApply": "Huỷ thao tác",
+  "confirmCancel": "Xác nhận huỷ",
+  "contentCancel": "Bạn có chắc chắn muốn huỷ đổi điểm nhận voucher này không?",
+  "childrenSitSameChair": "Trẻ em ngồi cùng ghế",
+  "childrenSitSameChair2": "TRẺ NGỒI CÙNG GHẾ",
+  "noteWeightForChildren": "Dành cho trẻ dưới 25kg hoặc chiều cao dưới 130cm",
+  "informationChildren": "Thông tin trẻ em",
+  "informationChildrenReverse": "Thông tin trẻ em - Chuyến đi",
+  "informationChildrenReverse2": "Thông tin trẻ em - Chuyến về",
+  "customerSitOn": "Hành khách ngồi ghế",
+  "useCustomerInformation": "Sử dụng thông tin người đặt vé",
+  "saveInformation": "Lưu thông tin",
+  "bornYear": "Ngày sinh",
+  "phoneTitle": "SĐT",
+  "informationCustomerChildren": "Thông tin trẻ em ngồi cùng",
+  "noteHeighWeightForChildren": "Lưu ý: Trẻ em ngồi cùng ghế chỉ dành cho trẻ dưới 25kg hoặc chiều cao dưới 130cm",
+  "childrenBelowWeightAndHeight": "Trẻ dưới 20kg - dưới 112 cm",
+  "childrenBelowWeightAndHeight2": "Trẻ dưới 25kg - dưới 115cm",
+  "freeForChildrenWithAdult": "Miễn phí với trẻ ngồi cùng người lớn.",
+  "extraFeesChildrenSitWithAdult": "Phụ phí 50%  với trẻ ngồi cùng người lớn.",
+  "free": "Miễn phí",
+  "extraFee": "Phụ thu",
+  "pleaseArrivedAt": "Quý khách vui lòng có mặt tại",
+  "before": "trước",
+  "toTransferBeforeGettingOnBus": "để được trung chuyển hoặc kiểm tra thông tin trước khi lên xe.",
+  "tempCalculate": "Tạm tính",
+  "seatLocation": "Vị trí",
+  "totalCalculate": "Tổng tính",
+  "choosePickingLocation": "Chọn điểm đón",
+  "extraFeeChildren": "Phụ phí 50% kèm trẻ em",
+  "seatPrice": "Chi phí",
+  "voucherList": "Danh sách Voucher",
+  "youExchangeSuccess": "Bạn đã đổi thành công",
+  "get": "lấy",
+  "confirmPayment": "Xác nhận đã thanh toán",
+  "quickPaymentByQRCode": "Thanh toán nhanh qua QR code",
+  "noteBanksNotSupportQR": "Một số ngân hàng chưa hỗ trợ quét mã QR",
+  "pleaseCheckInformationBeforeTransfer": "Quý khách vui lòng đối chiếu thông tin trước khi chuyển khoản",
+  "now": "ngay",
+  "allVoucher": "Tất cả Voucher",
+  "indentify": "CCCD",
+  "voucherApplyFrom": "Voucher áp dụng cho các chuyến xe từ",
+  "voucherApplyTo": "đến hết ",
+  "earlyMorning": "Sáng sớm",
+  "morning": "Buổi sáng",
+  "afternoon": "Buổi chiều",
+  "evening": "Buổi tối",
+  "above": "Trên",
+  "below": "Dưới",
+  "chooseSeat": "Chọn ghế ngồi",
+  "tripInfo": "Thông tin lịch trình",
+  "useBookingInfoForPassenger": "Sử dụng thông tin người đặt lịch trình cho hành khách ghế",
+  "enterLocationFrom": "Nhập điểm đi",
+  "enterLocationTo": "Nhập điểm đến",
+
+  "applyforTradition": "Áp dụng đối với dòng Xe truyền thống, Luxury:",
+  "childNoteTraditionList": [
+    {
+      "content": "Miễn phí bé chiều cao dưới 100cm và dưới 14kg nằm chung vơi người lớn"
+    },
+    {
+      "content": "bé trên 15kg, chiều cao từ 100cm trở lên nằm riêng tính 100%"
+    }
+  ],
+
+  "regulation": "QUY ĐỊNH:",
+  "contentLuggage": "Quý khách vui lòng dán tem hành lý trước khi giao cho nhân viên phục vụ.",
+  "regulationContentList": [
+    {
+      "content": "Không nhận hàng hóa, hành lý thuộc danh mục cấm, vi phạm pháp luật."
+    },
+    {
+      "content": "Hành lý dễ vỡ, dễ hư hỏng, đồ tươi sống cần đóng gói theo đúng quy cách, quy định và phải tự chịu trách nhiệm khi có rủi ro trong quá trình vận chuyển."
+    },
+    {
+      "content": "Không nhận hành lý ký gửi có giá trị cao: tiền, trang sức, kim loại quý, hợp đồng bảo mật, giấy tờ hành chính hoặc các đồ có giá trị cao. Vui lòng kê khai đối với hành lý có giá trị cao Miễn phí hành lý 25kg và kích thước cho 01 kiện không quá 100cm. Các trường hợp không đáp ứng cân nặng và kích thước trên sẽ tính thêm phụ phí."
+    },
+    {
+      "content": "Chúng tôi không chịu trách nhiệm đối với những thiệt hại gây ra bởi các khiếm khuyết về mặt bản chất, chất lượng hay thiếu sót của hành lý. Cũng như vậy, chúng tôi sẽ không chịu trách nhiệm với những hao mòn và rách vỡ một cách hợp lý của hành lý gây ra bởi sự di chuyển và va đập thông thường khi vận chuyển."
+    },
+    {
+      "content": "Chúng tôi bồi thường thiệt hại về hành lý cho hành khách dựa trên nguyên tắc chung là bồi thường theo thiệt hại thực tế nhưng không vượt quá mức giới hạn trách nhiệm của chúng tôi. Hành khách có trách nhiệm chứng minh thiệt hại thực tế đối với hành lý của mình. Quy định chung về bồi thường hành lý thất lạc: Bồi thường  200.000-500.000vnd. Chúng tôi tiếp nhận thông tin ngay tại thời điểm xuống xe ( gọi điện hoặc nhắn tin), những trường hợp báo sau khi đã rời xe chúng tôi không tiếp nhận."
+    }
+  ],
+
+  "policyOnChange": "CHÍNH SÁCH ĐỔI, HỦY, HOÃN LỊCH TRÌNH:",
+  "policyOnChangeList": [
+    {
+      "content": "Áp dụng phí 17% / phiếu khi báo trước 15h00 ngày khởi hành."
+    },
+    {
+      "content": "Áp dụng phí 50%/ phiếu sau 15h00 và trước 05 tiếng giờ xe khởi hành."
+    },
+    {
+      "content": "Trước 05 tiếng giờ khởi hành không áp dụng hủy, hoãn, đổi."
+    },
+    {
+      "content": "Đối với đoàn từ 03 người trở lên hủy, hoãn, đổi lịch trình trước 24H00 so với giờ xuất phát của ngày khởi hành. Sau 10h00 ngày khởi hành không nhận hủy, hoãn, đổi lịch."
+    },
+    {
+      "content": "Các ngày lễ, tết không áp dụng các chính sách hủy, hoãn trên."
+    }
+  ],
+  "policyOnOrther": "CÁC CHÍNH SÁCH KHÁC:",
+  "policyOnOrtherList": [
+    {
+      "content": "Quý khách vui lòng đến trước 15 phút giờ xe khởi hành để hoàn thành thủ tục."
+    },
+    {
+      "content": "Mỗi hành khách được mang tối đa 07kg hành lý xách tay, 20kg hành lý ký gửi."
+    },
+    {
+      "content": "Phiếu sẽ không hợp lệ khi: họ tên trên phiếu và người đi có họ tên khác nhau, số điện thoại không trùng khớp."
+    },
+    {
+      "content": "Để tránh ảnh hưởng đến những người xung quanh, công ty từ chối phục vụ những hành khách gây rối, ăn uống trên xe, người say rượu bia, sử dụng chất kích thích."
+    },
+    {
+      "content": "Phiếu đã bao gồm VAT ( phiếu không có giá trị thanh toán). Sau 24h quý khách không lấy hoá đơn, xin phép xuất hoá đơn khách lẻ."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+	"upstairs": "Tầng dưới (A)",
+	"downstairs": "Tầng trên (B)",
+	"warningChildren": {
+		"attention": "Lưu ý đối với trẻ đi cùng:",
+		"contentApplyToBike": "Áp dụng đối với dòng Xe Limousine:",
+		"contentList": [
+			{
+				"contentHot": "Miễn phí",
+				"content": "đối với trẻ dưới 20kg và chiều cao 112cm khi nằm chung với người lớn."
+			},
+			{
+				"contentHot": "Tính 50%",
+				"content": "đối với trẻ dưới 25kg và chiều cao 115cm khi nằm chung với người lớn. "
+			},
+			{
+				"contentHot": "Tính 100%",
+				"content": "đối với trẻ nặng từ 30kg và chiều cao từ 130cm trở lên khi nằm riêng."
+			}
+		]
+	}
+}

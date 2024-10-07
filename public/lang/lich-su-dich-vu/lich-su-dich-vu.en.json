@@ -1,0 +1,13 @@
+{
+  "serviceHistory": "Service history",
+  "sendProduct": "Shipment",
+  "busTicket": "Bus tickets",
+  "travelTour": "Tour",
+  "contractVehicle": "Contract vehicle",
+  "success": "Success",
+  "proccessing": "Wait for confirmation",
+  "running": "Running",
+  "detailTicket": "Ticket details",
+  "cancel": "Canceled",
+  "detailTitle": "Transaction details"
+}

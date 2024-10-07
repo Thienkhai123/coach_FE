@@ -1,0 +1,120 @@
+{
+  "createOrderTitle": "Tạo đơn hàng",
+  "informationSendReceive": "Thông tin gửi - nhận",
+  "informationProduct": "Thông tin hàng hóa",
+  "informationPersonSend": {
+    "informationSend": "Thông tin người gửi",
+    "fullName": "Họ và tên",
+    "phone": "Số điện thoại",
+    "adress": "Địa chỉ",
+    "email": "Email",
+    "CCCDNumber": "Số CCCD",
+    "content": "Tôi đồng ý với Điều khoản đặt lịch trình và Chính sách bảo mật của xequangbinh"
+  },
+  "informationPersonReceive": {
+    "informationReceive": "Thông tin người nhận",
+    "fullName": "Họ và tên",
+    "phone": "Số điện thoại",
+    "adress": "Địa chỉ",
+    "CCCDNumber": "Số CCCD "
+  },
+  "productDetail": {
+    "productTitle": "kiện hàng",
+    "contentProduct": "Nội dung",
+    "weightProduct": "Khối lượng",
+    "sizeProduct": "Kích thước",
+    "specialProduct": "Hàng đặc biệt",
+    "collectProduct": "Thu hộ",
+    "typeProduct": "Chọn loại hàng hóa"
+  },
+  "freightDetail": {
+    "freightTitle": "Chi tiết cước",
+    "personPay": "Người trả cước",
+    "pricePay": "Phí cước",
+    "incentivesPay": "Ưu đãi",
+    "totalPay": "Tổng cước"
+  },
+  "button": { "next": "Tiếp tục", "addProduct": "Thêm kiện" },
+  "signIn": {
+    "content": "Đăng nhập để tự động điền thông tin và tích điểm khi đặt phiếu xe",
+    "buttonSignIn": "Đăng nhập"
+  },
+  "errors": {
+    "warningContent": "Không được bỏ trống!",
+    "warningClause": "Vui lòng chấp nhận điều khoản!",
+    "warningType": "Vui lòng nhập đúng định dạng!"
+  },
+
+  "informationProductSendReceive": {
+    "adressSendReceive": "Địa chỉ gửi - nhận",
+    "citySend": "Gửi hàng từ",
+    "placeholderCitySend": "Chọn thành phố",
+    "adressSend": "Địa điểm gửi",
+    "placeholderAdressSend": "Chọn điểm gửi",
+    "cityReceive": "Gửi hàng đến",
+    "placeholderCityReceive": "Chọn thành phố",
+    "addressReceive": "Địa điểm nhận",
+    "placeholderAdressReceive": "Chọn điểm nhận",
+    "requestCollector": "Có thu hộ hay không?",
+    "moneyCollector": "Số tiền thu hộ",
+    "currency": "vnđ",
+    "prepaid": "Người trả cước",
+    "personSend": "Người gửi",
+    "personReceive": "Người nhận"
+  },
+  "detailProductSendReceive": {
+    "detailProduct": "Thông tin hàng hóa",
+    "package": "KIỆN HÀNG",
+    "contentProduct": "Nội dung hàng",
+    "placeholderContent": "Nhập nội dung",
+    "weight": "Khối lượng",
+    "placeholderWeight": "Nhập khối lượng",
+    "placeholderUnitWeight": "gram",
+    "size": "Kích thước(cm)",
+    "descriptionSize": "(tùy chọn)",
+    "placeholderUnitSize": "dài x rộng x cao",
+    "placeholderSize": "Nhập kích thước",
+    "withToHeight": "dài x rộng x cao",
+    "specialProduct": "Hàng hóa đặc biệt?",
+    "typeProduct": "Loại hàng",
+    "specialProductList": [
+      {
+        "id": 1,
+        "name": "HL",
+        "nameField": "coolProduct",
+        "typeProduct": "Hàng lạnh"
+      },
+      {
+        "id": 2,
+        "name": "GTC",
+        "nameField": "highProduct",
+        "typeProduct": "Giá trị cao"
+      },
+      {
+        "id": 3,
+        "name": "DV",
+        "nameField": "breakProduct",
+        "typeProduct": "Dễ vỡ"
+      },
+      {
+        "id": 4,
+        "name": "NK",
+        "nameField": "blockProduct",
+        "typeProduct": "Nguyên khối"
+      },
+      {
+        "id": 5,
+        "name": "CL",
+        "nameField": "liquidProduct",
+        "typeProduct": "Chất lỏng"
+      },
+      {
+        "id": 6,
+        "name": "TT",
+        "nameField": "pinProduct",
+        "typeProduct": "Từ tính, Pin"
+      }
+    ],
+    "imageProduct": "Ảnh kiện hàng"
+  }
+}

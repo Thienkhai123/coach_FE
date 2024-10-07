@@ -1,0 +1,122 @@
+{
+  "createOrderTitle": "Create orders",
+  "informationSendReceive": "Information sent - received",
+  "informationProduct": "Goods information",
+  "informationPersonSend": {
+    "informationSend": "Sender information",
+    "fullName": "Full name",
+    "phone": "Phone number",
+    "adress": "Address",
+    "email": "E-mail",
+    "CCCDNumber": "CCCD number",
+    "content": "I agree to xequangbinh's scheduling terms and privacy policy"
+  },
+  "informationPersonReceive": {
+    "informationReceive": "Recipient information",
+    "fullName": "Full name",
+    "phone": "Phone number",
+    "adress": "Address",
+    "CCCDNumber": "CCCD number "
+  },
+  "productDetail": {
+    "productTitle": "package",
+    "contentProduct": "Content",
+    "weightProduct": "Volume",
+    "sizeProduct": "Size",
+    "specialProduct": "Special goods",
+    "collectProduct": "Collection",
+    "typeProduct": "Select product type"
+  },
+  "freightDetail": {
+    "freightTitle": "Fee details",
+    "personPay": "Freight payer",
+    "pricePay": "Freight fee",
+    "incentivesPay": "Endow",
+    "totalPay": "Total fare"
+  },
+  "button": {
+    "next": "Continue",
+    "addProduct": "More bales"
+  },
+  "signIn": {
+    "content": "Log in to automatically fill in information and accumulate points when booking tickets",
+    "buttonSignIn": "Log in"
+  },
+  "errors": {
+    "warningContent": "Do not leave blank!",
+    "warningClause": "Please accept the terms!",
+    "warningType": "Please enter the correct format!"
+  },
+  "informationProductSendReceive": {
+    "adressSendReceive": "Sending and receiving addresses",
+    "citySend": "Ship from",
+    "placeholderCitySend": "Select city",
+    "adressSend": "Sending location",
+    "placeholderAdressSend": "Select sending point",
+    "cityReceive": "Ship to",
+    "placeholderCityReceive": "Select city",
+    "addressReceive": "Pickup location",
+    "placeholderAdressReceive": "Select pick up point",
+    "requestCollector": "Is there collection or not?",
+    "moneyCollector": "Amount collected",
+    "currency": "VND",
+    "prepaid": "Freight payer",
+    "personSend": "Sender",
+    "personReceive": "Receiver"
+  },
+  "detailProductSendReceive": {
+    "detailProduct": "Commodity information",
+    "package": "PACKAGE",
+    "contentProduct": "Item content",
+    "placeholderContent": "Enter content",
+    "weight": "Volume",
+    "placeholderWeight": "Enter volume",
+    "placeholderUnitWeight": "gram",
+    "size": "Size(cm)",
+    "descriptionSize": "(optional)",
+    "placeholderUnitSize": "length x width x height",
+    "placeholderSize": "Enter size",
+    "withToHeight": "length x width x height",
+    "specialProduct": "Special goods?",
+    "typeProduct": "Product type",
+    "specialProductList": [
+      {
+        "id": 1,
+        "name": "HL",
+        "nameField": "coolProduct",
+        "typeProduct": "Cold goods"
+      },
+      {
+        "id": 2,
+        "name": "GTC",
+        "nameField": "highProduct",
+        "typeProduct": "High value"
+      },
+      {
+        "id": 3,
+        "name": "DV",
+        "nameField": "breakProduct",
+        "typeProduct": "Fragile"
+      },
+      {
+        "id": 4,
+        "name": "NK",
+        "nameField": "blockProduct",
+        "typeProduct": "Monolithic"
+      },
+      {
+        "id": 5,
+        "name": "CL",
+        "nameField": "liquidProduct",
+        "typeProduct": "Liquid"
+      },
+      {
+        "id": 6,
+        "name": "TT",
+        "nameField": "batteryProduct",
+        "typeProduct": "Magnetic, Battery"
+      }
+    ],
+    "imageProduct": "Package photo"
+  }
+}

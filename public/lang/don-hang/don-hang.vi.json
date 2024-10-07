@@ -1,0 +1,17 @@
+{
+  "order": "Đơn hàng",
+  "informationShipping": "Thông tin vận chuyển",
+  "seeDetail": "Xem chi tiết",
+  "informationSendReceive": "Thông tin gửi nhận",
+  "informationProduct": "Thông tin hàng",
+  "createOrder": "Tạo đơn",
+  "status": "Trạng thái",
+  "shippingFees": "Phí vận chuyển",
+  "shippingDetail": "Chi tiết vận chuyển",
+  "expected": "Dự kiến đến lúc",
+  "transporting": "Đang vận chuyển",
+  "detailTitle": "Chi tiết thông tin vận chuyển",
+  "statusUnpaid": "Chưa thanh toán",
+  "statusPaid": "Đã thanh toán",
+  "collected": "Đã thu hộ"
+}

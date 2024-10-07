@@ -1,0 +1,9 @@
+{
+  "errorRequired": "Vui lòng không bỏ trống",
+  "errorEmail": "Email không hợp lệ",
+  "phoneInvalid": "Số điện thoại không hợp lệ",
+  "min8Character": "Mật khẩu tối thiểu 8 ký tự.",
+  "passwordInvalid": "Mật khẩu phải có chữ thường, chữ hoa ,số và ký tự đặc biệt",
+  "passwordNotMatch": "Mật khẩu không trùng khớp",
+  "bornYearInvalid": "Năm sinh không hợp lệ"
+}

@@ -1,0 +1,39 @@
+{
+  "content": "CÔNG TY TNHH DU LỊCH 338",
+  "titleCompanyDetail": "CÔNG TY CHỦ QUẢN",
+  "copyright": "Bản quyền thuộc về",
+  "companyDetail": {
+    "MSDN": "M.S.D.N",
+    "responsible": "Chịu trách nhiệm",
+    "address": "Địa chỉ",
+    "phone": "Điện thoại",
+    "website": "Website"
+  },
+  "titleOverviewDetail": "THÔNG TIN CẦN BIẾT",
+  "overviewDetail": [
+    {
+      "title": "Về chúng tôi",
+      "href": "/tin-tuc/bai-viet?slug=ve-chung-toi"
+    },
+    {
+      "title": "Chính sách bảo mật (Quyền riêng tư)",
+      "href": "/tin-tuc/bai-viet?slug=chinh-sach-bao-mat"
+    },
+    {
+      "title": "Điều khoản và điều kiện sử dụng",
+      "href": "/tin-tuc/bai-viet?slug=dieu-khoan-va-dieu-kien-su-dung"
+    },
+    {
+      "title": "Chính sách và quy trình tranh chấp, khiếu nại",
+      "href": "/tin-tuc/bai-viet?slug=chinh-sach-va-quy-dinh-tranh-chap-khieu-nai"
+    },
+    {
+      "title": "Chính sách bảo mật thông tin người dùng",
+      "href": "/tin-tuc/bai-viet?slug=bao-mat-thong-tin-nguoi-dung"
+    },
+    {
+      "title": "Chính sách bảo mật thông tin thanh toán",
+      "href": "/tin-tuc/bai-viet?slug=bao-mat-thong-tin-thanh-toan"
+    }
+  ]
+}

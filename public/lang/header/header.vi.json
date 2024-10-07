@@ -1,0 +1,48 @@
+{
+  "navbar": [
+    {
+      "title": "Trang chủ",
+      "ref": "/"
+    },
+    {
+      "title": "Tạo đơn hàng",
+      "ref": "/gui-hang"
+    },
+
+    {
+      "title": "Tra cứu đơn",
+      "ref": "/tra-cuu-don-hang"
+    },
+    {
+      "title": "Thuê xe",
+      "ref": "/xe-hop-dong"
+    },
+    {
+      "title": "Tin tức",
+      "ref": "/tin-tuc"
+    }
+  ],
+  "accountSettings": [
+    {
+      "title": "Thông tin cá nhân",
+      "ref": "/thong-tin-ca-nhan"
+    },
+    {
+      "title": "Lịch sử dịch vụ",
+      "ref": "/lich-su-dich-vu"
+    },
+    {
+      "title": "Điểm của tôi",
+      "ref": "/diem-thuong-cua-toi",
+      "extraComponent": true,
+      "key": "point"
+    },
+    {
+      "title": "Đăng xuất",
+      "ref": "/dang-xuat"
+    }
+  ],
+  "point": "điểm",
+  "notification": "Thông báo",
+  "language": "Ngôn ngữ"
+}
